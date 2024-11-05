@@ -1,0 +1,9 @@
+Je danse le MIA, pas de pacotille
+Chemise ouverte, chaîne en or qui brille
+<<<<<<< Updated upstream
+=======
+Des gestes lents, ils prenaient leur temps pour enchaîner
+Les passes qu'ils avaient élaborées dans leur quartier
+C'était vraiment trop beau
+Un mec assurait, tout le monde criait "ah oui minot !!"
+>>>>>>> Stashed changes
